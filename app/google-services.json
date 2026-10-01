@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456617326502",
+    "project_id": "tengo-parcial",
+    "storage_bucket": "tengo-parcial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456617326502:android:899085e5e16ded06b64167",
+        "android_client_info": {
+          "package_name": "com.example.tp2_arquitecturas_moviles_viotti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4FfYI62aq_UqftTke8afklQ7W962tMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
